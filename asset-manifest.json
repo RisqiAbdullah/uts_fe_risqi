@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/uts_fe_risqi/static/css/main.8aeb4ed7.css",
-    "main.js": "/uts_fe_risqi/static/js/main.90909ea2.js",
+    "main.js": "/uts_fe_risqi/static/js/main.c3e5d291.js",
     "index.html": "/uts_fe_risqi/index.html",
     "main.8aeb4ed7.css.map": "/uts_fe_risqi/static/css/main.8aeb4ed7.css.map",
-    "main.90909ea2.js.map": "/uts_fe_risqi/static/js/main.90909ea2.js.map"
+    "main.c3e5d291.js.map": "/uts_fe_risqi/static/js/main.c3e5d291.js.map"
   },
   "entrypoints": [
     "static/css/main.8aeb4ed7.css",
-    "static/js/main.90909ea2.js"
+    "static/js/main.c3e5d291.js"
   ]
 }
